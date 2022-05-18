@@ -16,6 +16,7 @@
         "url": "https://github.com/hs-yonekura/gitbook-plugin-cellmerge/issues"
     },
     "dependencies": {
-        "cheerio": "^1.0.0-rc.2"
+        "cheerio": "^1.0.0-rc.2",
+        "gitbook-plugin-table-cell-merge": "^1.0.8"
     }
 }
