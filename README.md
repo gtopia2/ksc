@@ -3,9 +3,9 @@ h1 제목
 test
 
 
-<td colspan="2">구분</td>|KNL 계산노드|Cpu-only 노드|
+|>|구분|KNL 계산노드|Cpu-only 노드|
 |:---:|:---:|:---:|:---:|
-<td colspan="2">제조사 및 모델</td><td colspan="2">Cray CS500</td>
+|>|제조사 및 모델|>|Cray CS500|
 <td rowspan="5">프로세서</td>|모델|Intel Xeon Phi 7250(KNL)|Intel Xeon 6148 (Skylake)|
 |CPU당 이론성능|3.0464 TFLOPS|1.536 TFLOPS|
 |CPU당 코어수|68|20|
