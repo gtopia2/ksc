@@ -3,7 +3,7 @@ h1 제목
 test
 
 
-|구분<td colspan="2">KNL 계산노드</td>|Cpu-only 노드|
+|구분|<td colspan="2">KNL 계산노드</td>|Cpu-only 노드|
 |:---:|:---:|:---:|:---:|
 |>|제조사 및 모델|>|Cray CS500|
 |노드수||8,305|132|
