@@ -3,15 +3,15 @@ h1 제목
 test
 
 
-|구분|<td colspan="2">KNL 계산노드</td>|Cpu-only 노드|
+|>>|구분|KNL 계산노드|Cpu-only 노드|
 |:---:|:---:|:---:|:---:|
-|>|제조사 및 모델|>|Cray CS500|
+|>>|제조사 및 모델|>>|Cray CS500|
 |노드수||8,305|132|
-|모델<td rowspan="5">프로세서</td>|Intel Xeon Phi 7250(KNL)|Intel Xeon 6148 (Skylake)|
-|CPU당 이론성능|3.0464 TFLOPS|1.536 TFLOPS|
-|CPU당 코어수|68|20|
-|노드당 CPU수|1|2|
-|On-package Memory|16GB, 490GB/s|-|
+|프로세서|모델|Intel Xeon Phi 7250(KNL)|Intel Xeon 6148 (Skylake)|
+|^^|CPU당 이론성능|3.0464 TFLOPS|1.536 TFLOPS|
+|^^|CPU당 코어수|68|20|
+|^^|노드당 CPU수|1|2|
+|^^|On-package Memory|16GB, 490GB/s|-|
 
 
 
