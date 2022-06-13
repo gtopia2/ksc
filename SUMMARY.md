@@ -7,3 +7,6 @@
 * [상용 소프트웨어](ksc/commerSW/상용소프트웨어.md)
   * [누리온](ksc/commerSW/누리온/누리온.md)
   * [뉴론](ksc/commerSW/뉴론/뉴론.md)
+* [locationTest](ksc/locationTest/README.md)
+  * [location](ksc/locationTest/location/README.md)
+  * [test](ksc/locationTest/test/README.md)
