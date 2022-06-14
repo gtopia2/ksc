@@ -18,3 +18,7 @@
   * [A. Programming Tool Installation Status](ksc/eng/UPE/ProgrammingToolInstallationStatus.md)
   * [B. How to Use Compiler](ksc/eng/UPE/HowtoUseCompiler.md)
   * [C. Debugger and Profiler](ksc/eng/UPE/DebuggerandProfiler.md)
+* [Job Execution through Scheduler (PBS)](ksc/eng/JEtS(PBS)/README.md)
+  * [A. Queue Configuration](ksc/eng/JEtS(PBS)/QueueConfiguration.md)
+  * [B. Job Submission and Monitoring](ksc/eng/JEtS(PBS)/JobSubmissionandMonitoring.md)
+  * [C. Job Control](ksc/eng/JEtS(PBS)/JobControl.md)
