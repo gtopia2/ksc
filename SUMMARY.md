@@ -1,7 +1,7 @@
 # Table of contents
 
 * [국가 슈퍼 컴퓨팅 센터 지침서](README.md)
-* [누리온]
+* [누리온](ksc/kor/NURION(KOR))
   * [누리온 시스템 사양 및 구성](ksc/kor/NURION(KOR)/NSSaC/README.md)
     * [가. 개요](ksc/kor/NURION(KOR)/NSSaC/Overview.md)
     * [나. 계산 노드](ksc/kor/NURION(KOR)/NSSaC/ComputingNode.md)
