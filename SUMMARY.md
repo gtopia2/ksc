@@ -65,7 +65,7 @@
     * [가. 개념](ksc/kor/NURION(KOR)/Appendix10/Concept.md)
     * [나. 데이터 처리](ksc/kor/NURION(KOR)/Appendix10/DataProcessing.md)
     * [다. 유의사항](ksc/kor/NURION(KOR)/Appendix10/Notice.md)
-    * [[별첨11] 플랫 노드(Flat node) 사용법](ksc/kor/NURION(KOR)/Appendix11/README.md)
+  * [[별첨11] 플랫 노드(Flat node) 사용법](ksc/kor/NURION(KOR)/Appendix11/README.md)
 * [뉴론](ksc/kor/NEURON(KOR)/README.md)
   * [뉴론 시스템 개요 및 구성](ksc/kor/NEURON(KOR)/NSOaC/README.md)
     * [가. 시스템 운영 목적](ksc/kor/NEURON(KOR)/NSOaC/PurposeofSystemOperation.md)
