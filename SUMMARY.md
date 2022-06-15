@@ -117,4 +117,3 @@
     * [5. How to Stop Jupyter](ksc/eng/NEURON\(ENG\)/Appendix9/HowtoStopJupyter.md)
     * [6. Jupyter Environment Initialization Method](ksc/eng/NEURON\(ENG\)/Appendix9/JupyterEnvironmentInitializationMethod.md)
     * [\[Supplement 1\]](ksc/eng/NEURON\(ENG\)/Appendix9/Supplement1.md)
-* [한글테스트](https://app.gitbook.com/s/lWc3OQPTyvKGpr5VFTQD/)
