@@ -7,7 +7,7 @@
     * [나. 계산 노드](ksc/kor/NURION(KOR)/NSSaC/ComputingNode.md)
     * [다. 인터커넥트 네트워크](ksc/kor/NURION(KOR)/NSSaC/InterconnectNetwork.md)
     * [라. 스토리지](ksc/kor/NURION(KOR)/NSSaC/Storage.md)
-* [NURION(ENG)]
+* [NURION(ENG)](ksc/eng/NURION(ENG))
   * [Nurion System Specifications and Configuration](ksc/eng/NURION(ENG)/NSSaC/README.md)
     * [A. Overview](ksc/eng/NURION(ENG)/NSSaC/Overview.md)
     * [B. Computing Node](ksc/eng/NURION(ENG)/NSSaC/ComputingNode.md)
@@ -61,7 +61,7 @@
     * [5. Remove Conda Environment](ksc/eng/NURION(ENG)/Appendix7/RemoveCondaEnvironment.md)
     * [6. Export Conda Environment](ksc/eng/NURION(ENG)/Appendix7/ExportCondaEnvironment.md)
     * [7. Import Conda Environment](ksc/eng/NURION(ENG)/Appendix7/ImportCondaEnvironment.md)
-* [NEURON(ENG)]
+* [NEURON(ENG)](ksc/eng/NEURON(ENG)/)
   * [Neuron System Overview and Configuration](ksc/eng/NEURON(ENG)/NSOaC/README.md)
     * [A. Purpose of System Operation](ksc/eng/NEURON(ENG)/NSOaC/PurposeofSystemOperation.md)
     * [B. System Configuration](ksc/eng/NEURON(ENG)/NSOaC/SystemConfiguration.md)
